@@ -22,9 +22,6 @@ h1{
 
 h2,h3,h4 {
     font-style: italic;
-}
-
-h3,h4{
     color:darkblue ;
 }
 
@@ -48,6 +45,8 @@ p{
 }
 a{
     text-decoration: none;
+    font-style:normal;
+
     
 }
 section{
